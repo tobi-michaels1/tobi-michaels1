@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @tobi-michaels1
-- 👀 I’m interested in ... Hacking
-- 🌱 I’m currently learning ...all.languages
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @tmscoder
+- 👀 I’m interested in ... game 🎯 development
+- 🌱 I’m currently learning ...game development based android
+- 💞️ I’m looking to collaborate on ...making a project with someone
 - 📫 How to reach me ...using. WhatsApp-09071682229
-                        and Facebook-.tobimichaels
+                        and Facebook- tmscoder
 
 
 <!---
